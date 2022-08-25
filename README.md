@@ -1,1 +1,1 @@
-This is a Email clone of a popular Japan-based online marketplace called mercari.
+This is a email clone of a popular Japan-based online marketplace called mercari.
